@@ -6,7 +6,7 @@ class App extends Component {
             <div style={{
                 "textAlign": "center"
             }}>
-                <h1 >Under Development</h1>
+                <h1>Under Development</h1>
                 <p>By Adit Srivastava</p>
             </div>
         )
